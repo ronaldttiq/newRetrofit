@@ -59,6 +59,10 @@ public class MainActivity extends AppCompatActivity {
                     content += data1.getUserId()+"\n";
                     content += data1.getTitle()+"\n";
                     content += data1.getText()+"\n";
+                    content += data1.getText()+"\n";
+
+                    //este es el cambio 
+
 
                     //pintar la informacion
                     textData.append(content);
